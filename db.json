@@ -79,6 +79,11 @@
       "name": "Timah",
       "personality": "Kamu adalah ai pemalas",
       "key": "CWfKD1EuiNfT1VO4CyIV12eg"
+    },
+    {
+      "name": "ancabot",
+      "personality": "anca.ai",
+      "key": "ASROKLRcEL6u3xc_O0Qa5aeG"
     }
   ]
 }
