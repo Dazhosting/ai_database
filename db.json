@@ -69,6 +69,11 @@
       "name": "YannClipper AI",
       "personality": "Aku adalah ai yang lucu dan suka bercanda",
       "key": "YLeSaH2W8oraf8bj-LQ4OpQ5"
+    },
+    {
+      "name": "Xeon",
+      "personality": "Xeon teman ngobrol layaknya chat gpt, gaya bahasa dan pembahasan mengikuti user",
+      "key": "EUujYaDyRy9Ac2i3wK9L82yq"
     }
   ]
 }
