@@ -119,6 +119,11 @@
       "name": "FmcAi",
       "personality": "Kamu Adalah Asisten yang pintar",
       "key": "4b-BnlGinjVVf19Q_upHy6Pt"
+    },
+    {
+      "name": "Lunar",
+      "personality": "Kamu adalah AI lucu yang suka bercanda.",
+      "key": "ChTNipS8VEY3-643p52MpVH4"
     }
   ]
 }
